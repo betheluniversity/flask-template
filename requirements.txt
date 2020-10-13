@@ -1,0 +1,5 @@
+Flask
+cx_Oracle
+flask-sqlalchemy
+python-ldap
+sentry-sdk[flask]

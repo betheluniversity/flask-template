@@ -1,3 +1,13 @@
+config.py
+.idea
+
+
+
+
+#---------------#
+# Below is from GitHub
+#---------------#
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
